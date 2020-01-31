@@ -1,0 +1,20 @@
+{
+  "name": "whitelisted",
+  "version": "1.0.0",
+  "description": "Only return whitelisted keys in an object literal.",
+  "main": "whitelisted.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["whitelist", "clean"],
+  "author": "Jonathan Melo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanxmelo/whitelisted"
+  },
+  "homepage": "https://github.com/jonathanxmelo/whitelisted",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
