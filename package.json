@@ -1,6 +1,6 @@
 {
   "name": "whitelisted",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Only return whitelisted keys in an object literal.",
   "main": "whitelisted.js",
   "scripts": {

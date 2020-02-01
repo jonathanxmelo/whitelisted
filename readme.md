@@ -6,7 +6,7 @@
 npm install whitelisted
 ```
 ```
-const whitelisted = requre('whitelisted') 
+const whitelisted = require('whitelisted') 
 ```
 ```
 obj = {
