@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["whitelist", "clean"],
+  "keywords": ["whitelist", "clean", "sanitize", "api", "json", "object"],
   "author": "Jonathan Melo",
   "repository": {
     "type": "git",
